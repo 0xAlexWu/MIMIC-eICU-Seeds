@@ -1,0 +1,25 @@
+candidate_id,source_dataset,source_table,likely_fhir_resource,exclusion_reason,exclusion_bucket
+eicu-obs-0011,eICU-CRD (demo-equivalent),vitalperiodic,Observation,A higher-priority example of the same observation measure is already in the shortlist.,duplicate_or_redundant
+eicu-obs-0012,eICU-CRD (demo-equivalent),vitalperiodic,Observation,A higher-priority example of the same observation measure is already in the shortlist.,duplicate_or_redundant
+eicu-obs-0014,eICU-CRD (demo-equivalent),vitalperiodic,Observation,A higher-priority example of the same observation measure is already in the shortlist.,duplicate_or_redundant
+eicu-obs-0015,eICU-CRD (demo-equivalent),vitalperiodic,Observation,A higher-priority example of the same observation measure is already in the shortlist.,duplicate_or_redundant
+eicu-pat-0002,eICU-CRD (demo-equivalent),patient,Patient,Additional Patient-like demographic fragment held out to keep Patient coverage sparse.,duplicate_or_redundant
+mimic-cond-0001,MIMIC-IV (demo-equivalent),diagnoses_icd,Condition,Additional explicit diagnosis held out so the first shortlist keeps Condition coverage rare.,duplicate_or_redundant
+mimic-cond-0002,MIMIC-IV (demo-equivalent),diagnoses_icd,Condition,Additional explicit diagnosis held out so the first shortlist keeps Condition coverage rare.,duplicate_or_redundant
+mimic-obs-0006,MIMIC-IV (demo-equivalent),chartevents,Observation,A higher-priority example of the same observation measure is already in the shortlist.,duplicate_or_redundant
+mimic-obs-0007,MIMIC-IV (demo-equivalent),chartevents,Observation,A higher-priority example of the same observation measure is already in the shortlist.,duplicate_or_redundant
+mimic-obs-0009,MIMIC-IV (demo-equivalent),chartevents,Observation,A higher-priority example of the same observation measure is already in the shortlist.,duplicate_or_redundant
+mimic-pat-0001,MIMIC-IV (demo-equivalent),patients,Patient,Additional Patient-like demographic fragment held out to keep Patient coverage sparse.,duplicate_or_redundant
+mimic-pat-0002,MIMIC-IV (demo-equivalent),patients,Patient,Additional Patient-like demographic fragment held out to keep Patient coverage sparse.,duplicate_or_redundant
+mimic-pat-0003,MIMIC-IV (demo-equivalent),patients,Patient,Additional Patient-like demographic fragment held out to keep Patient coverage sparse.,duplicate_or_redundant
+eicu-obs-0004,eICU-CRD (demo-equivalent),lab,Observation,Snippet needs linked clinical context to stand on its own.,needs_too_much_context
+eicu-obs-0005,eICU-CRD (demo-equivalent),lab,Observation,Snippet needs linked clinical context to stand on its own.,needs_too_much_context
+eicu-obs-0003,eICU-CRD (demo-equivalent),lab,Observation,Observation is usable for profiling but weak for the first manual pairing review round.,weak_pairing_value
+eicu-obs-0008,eICU-CRD (demo-equivalent),vitalperiodic,Observation,Observation is usable for profiling but weak for the first manual pairing review round.,weak_pairing_value
+eicu-obs-0013,eICU-CRD (demo-equivalent),vitalperiodic,Observation,Observation is usable for profiling but weak for the first manual pairing review round.,weak_pairing_value
+mimic-obs-0001,MIMIC-IV (demo-equivalent),labevents,Observation,Clean observation held out to keep the manual review pack compact and observation-led.,weak_pairing_value
+mimic-obs-0002,MIMIC-IV (demo-equivalent),labevents,Observation,Clean observation held out to keep the manual review pack compact and observation-led.,weak_pairing_value
+mimic-obs-0004,MIMIC-IV (demo-equivalent),labevents,Observation,Clean observation held out to keep the manual review pack compact and observation-led.,weak_pairing_value
+mimic-obs-0005,MIMIC-IV (demo-equivalent),labevents,Observation,Clean observation held out to keep the manual review pack compact and observation-led.,weak_pairing_value
+mimic-obs-0008,MIMIC-IV (demo-equivalent),chartevents,Observation,Observation is usable for profiling but weak for the first manual pairing review round.,weak_pairing_value
+mimic-obs-0010,MIMIC-IV (demo-equivalent),chartevents,Observation,Clean observation held out to keep the manual review pack compact and observation-led.,weak_pairing_value

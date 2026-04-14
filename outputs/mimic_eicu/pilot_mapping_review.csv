@@ -1,0 +1,10 @@
+shortlist_rank,candidate_id,source_dataset,source_table,raw_measure_name,candidate_text_snippet,likely_fhir_resource,proposed_fhir_path,proposed_value_type,proposed_code_system,proposed_code,proposed_display,proposed_unit,ucum_unit,subject_required,encounter_required,needs_linked_context,ambiguity_flag,reviewer_decision,reviewer_comments
+1,eicu-obs-0001,eICU-CRD (demo-equivalent),lab,Glucose,glucose 188 mg/dL,Observation,Observation.valueQuantity,Quantity,,,Glucose,mg/dL,mg/dL,yes,yes,false,code_review,,
+2,mimic-obs-0003,MIMIC-IV (demo-equivalent),labevents,Sodium,Na 134 mEq/L,Observation,Observation.valueQuantity,Quantity,,,Sodium,mEq/L,meq/L,yes,yes,false,code_review,,
+3,eicu-obs-0006,eICU-CRD (demo-equivalent),vitalperiodic,heartrate,HR 118 bpm,Observation,Observation.valueQuantity,Quantity,,,Heart Rate,bpm,/min,yes,yes,false,code_review,,
+4,eicu-obs-0007,eICU-CRD (demo-equivalent),vitalperiodic,systemicsystolic,SBP 86 mmHg,Observation,Observation.valueQuantity,Quantity,,,Systolic BP,mmHg,mm[Hg],yes,yes,false,code_review,,
+5,eicu-obs-0009,eICU-CRD (demo-equivalent),vitalperiodic,temperature,Temp 38.4 C,Observation,Observation.valueQuantity,Quantity,,,Temperature,C,Cel,yes,yes,false,code_review,,
+6,eicu-obs-0002,eICU-CRD (demo-equivalent),lab,Potassium,K 5.4 mmol/L,Observation,Observation.valueQuantity,Quantity,,,Potassium,mmol/L,mmol/L,yes,yes,false,code_review,,
+7,eicu-obs-0010,eICU-CRD (demo-equivalent),vitalperiodic,spo2,SpO2 91 %,Observation,Observation.valueQuantity,Quantity,,,SpO2,%,%,yes,yes,false,code_review,,
+8,eicu-pat-0001,eICU-CRD (demo-equivalent),patient,basic_demographics,71F,Patient,Patient.gender,code,http://hl7.org/fhir/administrative-gender,female,female,,,yes,no,false,age_fragment_not_directly_mapped,,
+9,eicu-cond-0001,eICU-CRD (demo-equivalent),diagnosis,diagnosis_text,Dx: atrial fibrillation,Condition,Condition.code,CodeableConcept,,,Atrial fibrillation,,,yes,yes,false,code_review,,

@@ -1,0 +1,6 @@
+subject_id,stay_id,itemid,label,valuenum,valueuom,text_snippet
+100001,300001,220045,Heart Rate,104,bpm,HR 104 bpm
+100001,300001,220179,Systolic Blood Pressure,92,mmHg,SBP 92 mmHg
+100001,300001,220180,Diastolic Blood Pressure,58,mmHg,DBP 58 mmHg
+100002,300002,223761,Temperature,38.1,C,Temp 38.1 C
+100002,300002,220210,Respiratory Rate,24,/min,RR 24 /min

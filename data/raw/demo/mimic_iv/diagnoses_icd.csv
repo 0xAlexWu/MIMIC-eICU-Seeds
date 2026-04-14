@@ -1,0 +1,4 @@
+subject_id,hadm_id,icd_code,diagnosis_text,diagnosis_snippet,explicit_low_ambiguity
+100001,200001,J18.9,Pneumonia,Dx: pneumonia,true
+100003,200003,E11.9,Type 2 diabetes mellitus,Dx: type 2 diabetes mellitus,true
+100004,200004,R41.82,Altered mental status,AMS,false

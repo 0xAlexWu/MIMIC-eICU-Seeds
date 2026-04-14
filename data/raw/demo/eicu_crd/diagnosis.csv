@@ -1,0 +1,3 @@
+patientunitstayid,diagnosis_text,diagnosis_snippet,explicit_low_ambiguity
+410001,Atrial fibrillation,Dx: atrial fibrillation,true
+410003,Rule out stroke,r/o stroke,false

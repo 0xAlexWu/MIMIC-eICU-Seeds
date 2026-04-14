@@ -1,0 +1,6 @@
+patientunitstayid,labname,labresult,unit,text_snippet
+410001,Glucose,188,mg/dL,glucose 188 mg/dL
+410001,Potassium,5.4,mmol/L,K 5.4 mmol/L
+410002,Platelets,142,K/uL,plt 142 K/uL
+410002,Bicarbonate,19,mmol/L,HCO3 19 mmol/L
+410003,Troponin I,0.08,ng/mL,trop I 0.08 ng/mL

@@ -1,0 +1,6 @@
+subject_id,hadm_id,itemid,label,valuenum,valueuom,text_snippet
+100001,200001,51301,WBC,13.2,K/uL,WBC 13.2 K/uL
+100002,200002,51222,Hemoglobin,9.8,g/dL,Hgb 9.8 g/dL
+100003,200003,50983,Sodium,134,mEq/L,Na 134 mEq/L
+100004,200004,50813,Lactate,2.1,mmol/L,Lactate 2.1 mmol/L
+100005,200005,50912,Creatinine,1.4,mg/dL,Creat 1.4 mg/dL

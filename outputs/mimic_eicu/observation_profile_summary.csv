@@ -1,0 +1,10 @@
+metric,value,notes
+total_observation_like_candidates,25,Observation-like fragments dominate the first-pass candidate pool.
+likely_numeric_observation_like_candidates,25,Numeric snippets are preferred for conservative early pairing work.
+observation_candidates_with_units,25,Units improve direct Observation.valueQuantity mapping confidence.
+observation_candidates_without_units,0,These should usually stay out of the first pilot.
+top_clean_pairing_measure_type_1,Heart Rate,3 strong candidate(s)
+top_clean_pairing_measure_type_2,Systolic BP,3 strong candidate(s)
+top_clean_pairing_measure_type_3,Temperature,3 strong candidate(s)
+top_clean_pairing_measure_type_4,SpO2,2 strong candidate(s)
+top_clean_pairing_measure_type_5,WBC,1 strong candidate(s)
