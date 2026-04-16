@@ -1,0 +1,50 @@
+pair_id,candidate_id,resource_type,flag_type,flag_reason
+demo-mimic-eicu-pair-0001,eicu-obs-0001,Observation,coding_uncertainty,"Reviewed row still lacks confirmed source coding, so the JSON keeps code text minimal."
+demo-mimic-eicu-pair-0001,eicu-obs-0001,Observation,unit_sensitivity,Quantity meaning depends on preserving the exact numeric value and unit.
+demo-mimic-eicu-pair-0001,eicu-obs-0001,Observation,possible_omission,"Subject or encounter linkage was reviewed as relevant, but resolvable references were omitted in demo mode."
+demo-mimic-eicu-pair-0002,eicu-obs-0001,Observation,coding_uncertainty,"Reviewed row still lacks confirmed source coding, so the JSON keeps code text minimal."
+demo-mimic-eicu-pair-0002,eicu-obs-0001,Observation,unit_sensitivity,Quantity meaning depends on preserving the exact numeric value and unit.
+demo-mimic-eicu-pair-0002,eicu-obs-0001,Observation,possible_omission,"Subject or encounter linkage was reviewed as relevant, but resolvable references were omitted in demo mode."
+demo-mimic-eicu-pair-0002,eicu-obs-0001,Observation,near_duplicate_variant,Semi-structured variant stays intentionally close to the concise clinical phrasing.
+demo-mimic-eicu-pair-0003,mimic-obs-0003,Observation,coding_uncertainty,"Reviewed row still lacks confirmed source coding, so the JSON keeps code text minimal."
+demo-mimic-eicu-pair-0003,mimic-obs-0003,Observation,unit_sensitivity,Quantity meaning depends on preserving the exact numeric value and unit.
+demo-mimic-eicu-pair-0003,mimic-obs-0003,Observation,possible_omission,"Subject or encounter linkage was reviewed as relevant, but resolvable references were omitted in demo mode."
+demo-mimic-eicu-pair-0004,mimic-obs-0003,Observation,coding_uncertainty,"Reviewed row still lacks confirmed source coding, so the JSON keeps code text minimal."
+demo-mimic-eicu-pair-0004,mimic-obs-0003,Observation,unit_sensitivity,Quantity meaning depends on preserving the exact numeric value and unit.
+demo-mimic-eicu-pair-0004,mimic-obs-0003,Observation,possible_omission,"Subject or encounter linkage was reviewed as relevant, but resolvable references were omitted in demo mode."
+demo-mimic-eicu-pair-0004,mimic-obs-0003,Observation,near_duplicate_variant,Semi-structured variant stays intentionally close to the concise clinical phrasing.
+demo-mimic-eicu-pair-0005,eicu-obs-0006,Observation,coding_uncertainty,"Reviewed row still lacks confirmed source coding, so the JSON keeps code text minimal."
+demo-mimic-eicu-pair-0005,eicu-obs-0006,Observation,unit_sensitivity,Quantity meaning depends on preserving the exact numeric value and unit.
+demo-mimic-eicu-pair-0005,eicu-obs-0006,Observation,possible_omission,"Subject or encounter linkage was reviewed as relevant, but resolvable references were omitted in demo mode."
+demo-mimic-eicu-pair-0006,eicu-obs-0006,Observation,coding_uncertainty,"Reviewed row still lacks confirmed source coding, so the JSON keeps code text minimal."
+demo-mimic-eicu-pair-0006,eicu-obs-0006,Observation,unit_sensitivity,Quantity meaning depends on preserving the exact numeric value and unit.
+demo-mimic-eicu-pair-0006,eicu-obs-0006,Observation,possible_omission,"Subject or encounter linkage was reviewed as relevant, but resolvable references were omitted in demo mode."
+demo-mimic-eicu-pair-0006,eicu-obs-0006,Observation,near_duplicate_variant,Semi-structured variant stays intentionally close to the concise clinical phrasing.
+demo-mimic-eicu-pair-0007,eicu-obs-0007,Observation,coding_uncertainty,"Reviewed row still lacks confirmed source coding, so the JSON keeps code text minimal."
+demo-mimic-eicu-pair-0007,eicu-obs-0007,Observation,unit_sensitivity,Quantity meaning depends on preserving the exact numeric value and unit.
+demo-mimic-eicu-pair-0007,eicu-obs-0007,Observation,possible_omission,"Subject or encounter linkage was reviewed as relevant, but resolvable references were omitted in demo mode."
+demo-mimic-eicu-pair-0008,eicu-obs-0007,Observation,coding_uncertainty,"Reviewed row still lacks confirmed source coding, so the JSON keeps code text minimal."
+demo-mimic-eicu-pair-0008,eicu-obs-0007,Observation,unit_sensitivity,Quantity meaning depends on preserving the exact numeric value and unit.
+demo-mimic-eicu-pair-0008,eicu-obs-0007,Observation,possible_omission,"Subject or encounter linkage was reviewed as relevant, but resolvable references were omitted in demo mode."
+demo-mimic-eicu-pair-0008,eicu-obs-0007,Observation,near_duplicate_variant,Semi-structured variant stays intentionally close to the concise clinical phrasing.
+demo-mimic-eicu-pair-0009,eicu-obs-0009,Observation,coding_uncertainty,"Reviewed row still lacks confirmed source coding, so the JSON keeps code text minimal."
+demo-mimic-eicu-pair-0009,eicu-obs-0009,Observation,unit_sensitivity,Quantity meaning depends on preserving the exact numeric value and unit.
+demo-mimic-eicu-pair-0009,eicu-obs-0009,Observation,possible_omission,"Subject or encounter linkage was reviewed as relevant, but resolvable references were omitted in demo mode."
+demo-mimic-eicu-pair-0010,eicu-obs-0009,Observation,coding_uncertainty,"Reviewed row still lacks confirmed source coding, so the JSON keeps code text minimal."
+demo-mimic-eicu-pair-0010,eicu-obs-0009,Observation,unit_sensitivity,Quantity meaning depends on preserving the exact numeric value and unit.
+demo-mimic-eicu-pair-0010,eicu-obs-0009,Observation,possible_omission,"Subject or encounter linkage was reviewed as relevant, but resolvable references were omitted in demo mode."
+demo-mimic-eicu-pair-0010,eicu-obs-0009,Observation,near_duplicate_variant,Semi-structured variant stays intentionally close to the concise clinical phrasing.
+demo-mimic-eicu-pair-0011,eicu-obs-0002,Observation,coding_uncertainty,"Reviewed row still lacks confirmed source coding, so the JSON keeps code text minimal."
+demo-mimic-eicu-pair-0011,eicu-obs-0002,Observation,unit_sensitivity,Quantity meaning depends on preserving the exact numeric value and unit.
+demo-mimic-eicu-pair-0011,eicu-obs-0002,Observation,possible_omission,"Subject or encounter linkage was reviewed as relevant, but resolvable references were omitted in demo mode."
+demo-mimic-eicu-pair-0012,eicu-obs-0002,Observation,coding_uncertainty,"Reviewed row still lacks confirmed source coding, so the JSON keeps code text minimal."
+demo-mimic-eicu-pair-0012,eicu-obs-0002,Observation,unit_sensitivity,Quantity meaning depends on preserving the exact numeric value and unit.
+demo-mimic-eicu-pair-0012,eicu-obs-0002,Observation,possible_omission,"Subject or encounter linkage was reviewed as relevant, but resolvable references were omitted in demo mode."
+demo-mimic-eicu-pair-0012,eicu-obs-0002,Observation,near_duplicate_variant,Semi-structured variant stays intentionally close to the concise clinical phrasing.
+demo-mimic-eicu-pair-0013,eicu-obs-0010,Observation,coding_uncertainty,"Reviewed row still lacks confirmed source coding, so the JSON keeps code text minimal."
+demo-mimic-eicu-pair-0013,eicu-obs-0010,Observation,unit_sensitivity,Quantity meaning depends on preserving the exact numeric value and unit.
+demo-mimic-eicu-pair-0013,eicu-obs-0010,Observation,possible_omission,"Subject or encounter linkage was reviewed as relevant, but resolvable references were omitted in demo mode."
+demo-mimic-eicu-pair-0014,eicu-obs-0010,Observation,coding_uncertainty,"Reviewed row still lacks confirmed source coding, so the JSON keeps code text minimal."
+demo-mimic-eicu-pair-0014,eicu-obs-0010,Observation,unit_sensitivity,Quantity meaning depends on preserving the exact numeric value and unit.
+demo-mimic-eicu-pair-0014,eicu-obs-0010,Observation,possible_omission,"Subject or encounter linkage was reviewed as relevant, but resolvable references were omitted in demo mode."
+demo-mimic-eicu-pair-0014,eicu-obs-0010,Observation,near_duplicate_variant,Semi-structured variant stays intentionally close to the concise clinical phrasing.
